@@ -1,4 +1,11 @@
 
+body{
+  background-color:#FFE3C7 ;
+}
+h1{
+
+  color:#A8595D;
+}
 p{
     line-height:3px;
    
@@ -7,4 +14,50 @@ img{
   padding: 8px;
     height: 140px;
     float: left;
+}
+a{
+  color: #D4928C;
+  font-size: 20px;
+ text-decoration: none;
+  padding-left: 3em;
+  padding-right: 3em;
+}
+nav{ text-align: center;
+  background-color:#E8C0B1;
+}
+
+nav > a:hover{
+  background-color: #D4928C;
+  color: #E8C0B1;
+}
+
+.negrito{
+  font-weight: bold;
+
+}
+h2{
+  color: #7A2432;
+}
+p{
+  color: #A8595D;
+  
+}
+ul{
+  color: #A8595D;
+}
+hr{
+color: #7A2432;
+}
+div{
+border-bottom: 3px solid #D4928C;
+}
+.box1{
+  border-bottom: 3px solid #D4928C;
+  padding-bottom: 30px;
+}
+.box2{
+  color: #7A2432;
+}
+img{
+  border-radius: 14px;
 }
